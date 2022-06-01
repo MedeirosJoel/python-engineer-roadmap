@@ -110,13 +110,14 @@ Antes de continuar, leia [Guia de Contribuição](CONTRIBUTING.md) primeiro. Voc
 - ### Estrutura de dados e algoritmos
   
   - **Book**
-    - ✅ [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
-    - ✅ [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-    - [Data Structure and Algorithmic Thinking with Python: Data Structure and Algorithmic Puzzles by Narasimha Karumanchi](https://www.amazon.com/Data-Structure-Algorithmic-Thinking-Python/dp/8192107590)
-    - [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+    - ✅ [Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos](https://amzn.to/3NbS9f1)
+    - ✅ [Cracking the Coding Interview by Gayle Laakmann McDowell](https://amzn.to/3NOHMOh)
+    - [Data Structure and Algorithmic Thinking with Python: Data Structure and Algorithmic Puzzles by Narasimha Karumanchi](https://amzn.to/3zcgIV9)
+    - [Algoritmos - Teoria e Prática](https://amzn.to/3Q6l8TE)
 
   - **Video**
     - [Data Structures And Algorithms Course by Mosh Hamedani](https://codewithmosh.com/p/data-structures-algorithms)
+    - [Playlist - Estrutura de Dados e Algoritmos](https://www.youtube.com/playlist?list=PLE1UtdMhwaEonmSRDkSzpFV5m5zKiqM94)
 
   - **Platform**
     - ✅ [LeetCode](https://leetcode.com/)
@@ -127,6 +128,7 @@ Antes de continuar, leia [Guia de Contribuição](CONTRIBUTING.md) primeiro. Voc
 
   - **Repo**
     - ✅ [Coding University](https://github.com/jwasham/coding-interview-university)
+    - [python data structures and algorithms](https://github.com/joaomh/python-data-structures-and-algorithms)
 
   - **Cheat Sheet**
     - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
@@ -134,7 +136,7 @@ Antes de continuar, leia [Guia de Contribuição](CONTRIBUTING.md) primeiro. Voc
 - ### Design de Sistemas
   
   - **Book**
-    - ✅ [System Design Interview by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
+    - ✅ [System Design Interview by Alex Xu](https://amzn.to/3masuYc)
     - [System Design Interview: Volume 2 by Alex Xu & Sahn Lam](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119)
 
   - **Course**
