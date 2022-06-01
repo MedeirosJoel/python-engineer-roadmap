@@ -1,21 +1,21 @@
 # Python Engineer Roadmap [![README to PDF](https://github.com/DjangoEx/python-engineer-roadmap/actions/workflows/convert-to-pdf.yml/badge.svg)](README.pdf)
 
-[Python](https://www.python.org/) can be used in a lot of computer science fields. In this repository, we have collected resources for each field of computer science that are related to Python.\
-**Not sure which source to choose?** You can follow the resources marked with a ✅ symbol, they are highly recommended by the community.
+[Python](https://www.python.org/) pode ser usado em muitos campos da ciencia da computação. Nesse repositório, nós temos uma coleção de recursos para cada área da ciência da computação que tem conteúdo em python.\
+**Incerto sobre qual escolher?** você pode escolher o que contenha o seguinte símbolo ✅, eles são extremamente recomendados pela comunidade.
 
 
-### Contribution
-Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You are new to contribution process? For more information about the steps and guides, check out the [First Contribution Guide](https://github.com/firstcontributions/first-contributions).
+### Contribuição
+Antes de continuar, leia [Guia de Contribuição](CONTRIBUTING.md) primeiro. Você é novo no processo de contribuição? Para mais informações sobre os passos e guias, cheuqe o seguinte guia [Guia da Primeira Contribuição](https://github.com/firstcontributions/first-contributions).
 
-### Table of Contents
+### Sumário 
 
-- [Prerequisites](#prerequisites)
-  - [Algorithms and Data Structures](#algorithms-and-data-structures)
-  - [System Design](#system-design)
+- [Pré-Requisitos](#Pré-Requisitos)
+  - [Estrutura de dados e algoritmos](#Estrutura-de-dados-e-algoritmos)
+  - [Design de sistemas](#Design-de-Sistemas)
   - [Git](#git)
-  - [Operating System](#operating-system)
-  - [Virtual Environment](#virtual-environment)
-  - [Python](#python)
+  - [Sistema Operacional](#Sistema-Operacional)
+  - [Ambiente Virtual](#Ambiente-Virtual)
+  - [Python](#Python)
 - [Career Path](#career-path)
   - [Backend](#backend)
     - [Django](#django)
@@ -105,9 +105,9 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - [Public Cloud](#public-cloud)
 - [Where to Go Next?](#where-to-go-next)
 
-## Prerequisites
+## Pré-Requisitos
 
-- ### Algorithms and Data Structures
+- ### Estrutura de dados e algoritmos
   
   - **Book**
     - ✅ [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
@@ -131,7 +131,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Cheat Sheet**
     - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
 
-- ### System Design
+- ### Design de Sistema
   
   - **Book**
     - ✅ [System Design Interview by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
@@ -164,7 +164,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Cheat Sheet**
     - [Git cheat sheet](https://wac-cdn.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf?cdnVersion=353)
 
-- ### Operating System
+- ### istema Operacional
 
   - **Book**
     - ✅ [LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 102 by Roderick W. Smith](https://www.amazon.com/LPIC-1-Linux-Professional-Institute-Certification/dp/1118495632)
@@ -182,7 +182,7 @@ Before you head over, read the [Contribution Guide](CONTRIBUTING.md) first. You 
   - **Cheat Sheet**
     - [Linux commands cheat sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 
-- ### Virtual Environment
+- ### Ambiente Virtual
 
   - **VENV**
   
