@@ -1,4 +1,4 @@
-# Python Engineer Roadmap [![README to PDF](https://github.com/DjangoEx/python-engineer-roadmap/actions/workflows/convert-to-pdf.yml/badge.svg)](README.pdf)
+# Engenheiro Python Roadmap
 
 [Python](https://www.python.org/) pode ser usado em muitos campos da ciencia da computação. Nesse repositório, nós temos uma coleção de recursos para cada área da ciência da computação que tem conteúdo em python.\
 **Incerto sobre qual escolher?** você pode escolher o que contenha o seguinte símbolo ✅, eles são extremamente recomendados pela comunidade.
@@ -131,7 +131,7 @@ Antes de continuar, leia [Guia de Contribuição](CONTRIBUTING.md) primeiro. Voc
   - **Cheat Sheet**
     - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
 
-- ### Design de Sistema
+- ### Design de Sistemas
   
   - **Book**
     - ✅ [System Design Interview by Alex Xu](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
@@ -164,7 +164,7 @@ Antes de continuar, leia [Guia de Contribuição](CONTRIBUTING.md) primeiro. Voc
   - **Cheat Sheet**
     - [Git cheat sheet](https://wac-cdn.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf?cdnVersion=353)
 
-- ### istema Operacional
+- ### Sistema Operacional
 
   - **Book**
     - ✅ [LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 102 by Roderick W. Smith](https://www.amazon.com/LPIC-1-Linux-Professional-Institute-Certification/dp/1118495632)
